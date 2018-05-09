@@ -8,14 +8,13 @@ Pacific Northwest National Laboratory
 
 902 Battelle Blvd, Richland, WA 99354
 
+**Email:** hongxiang.yan@pnnl.gov
+**Phone:** (509) 375-7224
+
+[Google Scholar] (https://scholar.google.com/citations?user=d4lXobIAAAAJ&hl=en)     [ResearchGate] (https://www.researchgate.net/profile/Hongxiang_Yan)      [Linkedin] (https://www.linkedin.com/in/hongxiangyan/)
 
 
 
-
-
-You can use the [editor on GitHub](https://github.com/hydro-yan/hydro-yan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
