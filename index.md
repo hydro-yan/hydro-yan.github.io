@@ -1,8 +1,7 @@
 ### Hongxiang Yan
 
-**Postdoctoral Research Associate**
-
-Hydrology Technical Group, Energy and Environment Directorate
+**Postdoctoral Research Associate** <br />
+Hydrology Technical Group, Energy and Environment Directorate <br />
 
 Pacific Northwest National Laboratory
 
