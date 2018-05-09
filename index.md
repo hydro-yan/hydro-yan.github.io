@@ -18,7 +18,7 @@ Pacific Northwest National Laboratory <br />
 
 ### ACADEMIC EXPERIENCE 
 
-2017–2019&nbsp;&nbsp;&nbsp;**Postdoctoral Research Associate**, Pacific Northwest National Laboratory, Richland, WA <br />
+2017–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Postdoctoral Research Associate**, Pacific Northwest National Laboratory, Richland, WA <br />
 2012–2016&nbsp;&nbsp;&nbsp;**Graduate Research & Teaching Assistant**, Portland State University, Portland, OR <br />
 2010–2012&nbsp;&nbsp;&nbsp;**Graduate Student**, University of Arkansas, Fayetteville, AR <br /> <br />
 
