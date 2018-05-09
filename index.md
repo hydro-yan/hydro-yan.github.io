@@ -10,7 +10,6 @@ Pacific Northwest National Laboratory <br />
 
 [Google Scholar](https://scholar.google.com/citations?user=d4lXobIAAAAJ&hl=en)&nbsp;&nbsp;&nbsp;&nbsp;[ResearchGate](https://www.researchgate.net/profile/Hongxiang_Yan)&nbsp;&nbsp;&nbsp;&nbsp;[Linkedin](https://www.linkedin.com/in/hongxiangyan/) <br />
 
-<br />
 ### Education
 
 2012–2016&nbsp;&nbsp;&nbsp;**Ph.D.** in Civil and Environmental Engineering, Portland State University, Portland, OR
