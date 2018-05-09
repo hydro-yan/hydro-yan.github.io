@@ -1,4 +1,4 @@
-### Hongxiang Yan
+## Hongxiang Yan
 
 **Postdoctoral Research Associate** <br />
 Hydrology Technical Group, Energy and Environment Directorate <br />
@@ -8,7 +8,7 @@ Pacific Northwest National Laboratory <br />
 **Email:** hongxiang.yan@pnnl.gov <br />
 **Phone:** (509) 375-7224
 
-[Google Scholar](https://scholar.google.com/citations?user=d4lXobIAAAAJ&hl=en)&nbsp;&nbsp;&nbsp;&nbsp;[ResearchGate](https://www.researchgate.net/profile/Hongxiang_Yan)&nbsp;&nbsp;&nbsp;&nbsp;[Linkedin](https://www.linkedin.com/in/hongxiangyan/) <br />
+[Google Scholar](https://scholar.google.com/citations?user=d4lXobIAAAAJ&hl=en)&nbsp;&nbsp;&nbsp;&nbsp;[ResearchGate](https://www.researchgate.net/profile/Hongxiang_Yan)&nbsp;&nbsp;&nbsp;&nbsp;[Linkedin](https://www.linkedin.com/in/hongxiangyan/) <br /> <br />
 
 ### Education
 
