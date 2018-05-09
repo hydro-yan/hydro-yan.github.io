@@ -22,7 +22,7 @@ Pacific Northwest National Laboratory <br />
 2012–2016&nbsp;&nbsp;&nbsp;**Graduate Research & Teaching Assistant**, Portland State University, Portland, OR <br />
 2010–2012&nbsp;&nbsp;&nbsp;**Graduate Student**, University of Arkansas, Fayetteville, AR <br /> <br />
 
-### SELECTED HONORS AND AWARDS
+#### SELECTED HONORS AND AWARDS
 2018&nbsp;&nbsp;&nbsp;AGU-Water Resources Research Journal Cover Image (Volume 54, Issue 2) <br />
 2017&nbsp;&nbsp;&nbsp;Grand Prize Award, NASA-AGU Data Visualization and Storytelling Competition <br />
 2016&nbsp;&nbsp;&nbsp;Outstanding Ph.D. Student Award, Department of Civil and Environmental Engineering, Portland State University <br />
