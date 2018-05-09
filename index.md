@@ -20,7 +20,17 @@ Pacific Northwest National Laboratory <br />
 
 2017–2019&nbsp;&nbsp;&nbsp;**Postdoctoral Research Associate**, Pacific Northwest National Laboratory, Richland, WA <br />
 2012–2016&nbsp;&nbsp;&nbsp;**Graduate Research & Teaching Assistant**, Portland State University, Portland, OR <br />
-2010–2012&nbsp;&nbsp;&nbsp;**Graduate Student**, University of Arkansas, Fayetteville, AR
+2010–2012&nbsp;&nbsp;&nbsp;**Graduate Student**, University of Arkansas, Fayetteville, AR <br /> <br />
+
+### SELECTED HONORS AND AWARDS
+2018&nbsp;&nbsp;&nbsp;AGU-Water Resources Research Journal Cover Image (Volume 54, Issue 2) <br />
+2017&nbsp;&nbsp;&nbsp;Grand Prize Award, NASA-AGU Data Visualization and Storytelling Competition <br />
+2016&nbsp;&nbsp;&nbsp;Outstanding Ph.D. Student Award, Dept. of Civil and Environmental Engineering, Portland State University <br />
+2016&nbsp;&nbsp;&nbsp;Institute for Sustainable Solutions Travel Award, Portland State University <br />
+2016&nbsp;&nbsp;&nbsp;Student Educational Travel Award, Portland State University <br />
+2015&nbsp;&nbsp;&nbsp;Marie Brown Travel Award, Portland State University <br />
+2015&nbsp;&nbsp;&nbsp;Student Travel Grant, CUAHSI <br />
+2014&nbsp;&nbsp;&nbsp;Institute for Sustainable Solutions Travel Award, Portland State University
 
 
 
@@ -32,7 +42,8 @@ Pacific Northwest National Laboratory <br />
 
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
 
 ```markdown
 Syntax highlighted code block
