@@ -14,7 +14,7 @@ Pacific Northwest National Laboratory <br />
 
 2012–2016&nbsp;&nbsp;&nbsp;**Ph.D.** in Civil and Environmental Engineering, Portland State University, Portland, OR <br />
 2010–2012&nbsp;&nbsp;&nbsp;**M.S.** in Civil Engineering, University of Arkansas, Fayetteville, AR <br />
-2006–2010&nbsp;&nbsp;&nbsp;**B.E.** in Hydraulic Engineering, North China Electric Power University, Beijing, China <br />
+2006–2010&nbsp;&nbsp;&nbsp;**B.E.** in Hydraulic Engineering, North China Electric Power University, Beijing, China <br /> <br />
 
 ### ACADEMIC EXPERIENCE 
 
