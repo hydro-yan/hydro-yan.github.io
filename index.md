@@ -8,7 +8,7 @@ Pacific Northwest National Laboratory <br />
 **Email:** hongxiang.yan@pnnl.gov <br />
 **Phone:** (509) 375-7224
 
-[Google Scholar](https://scholar.google.com/citations?user=d4lXobIAAAAJ&hl=en)&npsp;&nbsp;[ResearchGate](https://www.researchgate.net/profile/Hongxiang_Yan)--[Linkedin](https://www.linkedin.com/in/hongxiangyan/)
+[Google Scholar](https://scholar.google.com/citations?user=d4lXobIAAAAJ&hl=en)&npsp; &nbsp;[ResearchGate](https://www.researchgate.net/profile/Hongxiang_Yan)--[Linkedin](https://www.linkedin.com/in/hongxiangyan/)
 
 
 
