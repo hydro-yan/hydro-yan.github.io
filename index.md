@@ -42,7 +42,7 @@ Professional Licensure: Engineering in Training (**EIT**) in State of Washington
 - Member of the International Association of Hydrological Sciences (**IAHS**): 2013 to present
 - Member of the Hydrological Ensemble Prediction Experiment (**HEPEX**): 2014 to present
 
-**Journal Reviewer:**
+Journal Reviewer Service:
 - Scientific Reports (Nature)
 - Water Resources Research (AGU)
 - Journal of Hydrology (Elsevier)
