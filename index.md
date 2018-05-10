@@ -30,9 +30,18 @@ Pacific Northwest National Laboratory <br />
 2016&nbsp;&nbsp;&nbsp;Student Educational Travel Award, Portland State University <br />
 2015&nbsp;&nbsp;&nbsp;Marie Brown Travel Award, Portland State University <br />
 2015&nbsp;&nbsp;&nbsp;Student Travel Grant, CUAHSI <br />
-2014&nbsp;&nbsp;&nbsp;Institute for Sustainable Solutions Travel Award, Portland State University <br />
+2014&nbsp;&nbsp;&nbsp;Institute for Sustainable Solutions Travel Award, Portland State University <br /> <br />
 
+#### PROFESSIONAL SERVICES 
+Professional Licensure: Engineering in Training (EIT) in State of Washington (License 33949) 
 
+- Member of the Environmental & Water Resources Institute (**EWRI**) Risk, Uncertainty, and Probabilistic Approaches (**RUPA**) Committee: 2014 to present
+- Member of the American Geophysical Union (**AGU**): 2013 to present
+- Member of the American Society of Civil Engineers (**ASCE**): 2012 to present     
+- Member of the International Association of Hydrological Sciences (**IAHS**): 2013 to present
+- Member of the Hydrological Ensemble Prediction Experiment (**HEPEX**): 2014 to present
+
+**Reviewer:** 138+ journal papers for Scientific Reports (Nature), Water Resources Research (AGU), Journal of Hydrology (Elsevier), Catena (Elsevier), Hydrological Processes (Wiley), Journal of Hydrometeorology (AMS), Sensors (MDPI), Remote Sensing (MDPI), Water (MDPI), Sustainability (MDPI), Hydrology (MDPI), Geosciences (MDPI), Journal of Hydrologic Engineering (ASCE), Journal of Hydroinformatics (IWA), Stochastic Environmental Research and Risk Assessment (Springer), Water Resources Management (Springer), Environmental Earth Sciences (Springer), Canadian Water Resources Journal (CWRA), Hydrological Research Letters (JSHWR), Acta Geophysica (Springer), Advances in Meteorology (Hindawi), Journal of Meteorological Research (CMS)
 
 
 
