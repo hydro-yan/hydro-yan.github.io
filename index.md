@@ -42,28 +42,4 @@ Professional Licensure: Engineering in Training (**EIT**) in State of Washington
 - Member of the International Association of Hydrological Sciences (**IAHS**): 2013 to present
 - Member of the Hydrological Ensemble Prediction Experiment (**HEPEX**): 2014 to present
 
-Journal Reviewer Service: 
-- Scientific Reports (Nature)
-- Water Resources Research (AGU)
-- Journal of Hydrology (Elsevier)
-- Hydrological Processes (Wiley)
-- Journal of Hydrometeorology (AMS)
-- Journal of Hydrologic Engineering (ASCE)
-- Journal of Hydroinformatics (IWA)
-- Water Resources Management (Springer)
-- Stochastic Environmental Research and Risk Assessment (Springer)
-- Environmental Earth Sciences (Springer)
-- Acta Geophysica (Springer)
-- Canadian Water Resources Journal (CWRA)
-- Catena (Elsevier)
-- Remote Sensing (MDPI)
-- Sensors (MDPI)
-- Water (MDPI)
-- Geosciences (MDPI)
-- Hydrology (MDPI)
-- Sustainability (MDPI)
-- Hydrological Research Letters (JSHWR)
-- Advances in Meteorology (Hindawi)
-- Journal of Meteorological Research (CMS)
-
-
+-Reviewer: **138+** journal papers for Scientific Reports (Nature), Water Resources Research (AGU), Journal of Hydrology (Elsevier), Catena (Elsevier), Hydrological Processes (Wiley), Journal of Hydrometeorology (AMS), Sensors (MDPI), Remote Sensing (MDPI), Water (MDPI), Sustainability (MDPI), Hydrology (MDPI), Geosciences (MDPI), Journal of Hydrologic Engineering (ASCE), Journal of Hydroinformatics (IWA), Stochastic Environmental Research and Risk Assessment (Springer), Water Resources Management (Springer), Environmental Earth Sciences (Springer), Canadian Water Resources Journal (CWRA), Hydrological Research Letters (JSHWR), Acta Geophysica (Springer), Advances in Meteorology (Hindawi), Journal of Meteorological Research (CMS)
