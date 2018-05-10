@@ -1,9 +1,11 @@
 ## Hongxiang Yan
 
+<img src="https://drive.google.com/uc?id=1CCTnxFEZwMSKB5D1WFjoJavyOsYXoNoxFQ" width="133.5" height="200" align="right">
+
 **Postdoctoral Research Associate** <br />
 Hydrology Technical Group, Energy and Environment Directorate <br />
 Pacific Northwest National Laboratory <br />
-902 Battelle Blvd, Richland, WA 99354        <img src="https://drive.google.com/uc?id=1CCTnxFEZwMSKB5D1WFjoJavyOsYXoNoxFQ" width="133.5" height="200">
+902 Battelle Blvd, Richland, WA 99354        
 
 **Email:** hongxiang.yan@pnnl.gov <br />
 **Phone:** (509) 375-7224
