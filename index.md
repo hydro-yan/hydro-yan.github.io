@@ -1,6 +1,7 @@
 ## Hongxiang Yan
 
 ![Image](https://drive.google.com/uc?id=1CCTnxFEZwMSKB5D1WFjoJavyOsYXoNoxFQ | width=100) 
+<img src="https://drive.google.com/uc?id=1CCTnxFEZwMSKB5D1WFjoJavyOsYXoNoxFQ" width="24" height="48">
 
 **Postdoctoral Research Associate** <br />
 Hydrology Technical Group, Energy and Environment Directorate <br />
