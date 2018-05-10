@@ -35,7 +35,7 @@ Pacific Northwest National Laboratory <br />
 2014&nbsp;&nbsp;&nbsp;Institute for Sustainable Solutions Travel Award, Portland State University <br /> <br />
 
 #### PROFESSIONAL SERVICES 
-Professional Licensure: Engineering in Training (EIT) in State of Washington (License 33949) 
+Professional Licensure: Engineering in Training (**EIT**) in State of Washington (License 33949) 
 
 - Member of the Environmental & Water Resources Institute (**EWRI**) Risk, Uncertainty, and Probabilistic Approaches (**RUPA**) Committee: 2014 to present
 - Member of the American Geophysical Union (**AGU**): 2013 to present
