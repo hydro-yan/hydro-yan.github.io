@@ -1,9 +1,7 @@
-<h2 style="text-align: left;" markdown="1">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hongxiang Yan</h2>
+## Hongxiang Yan
 <img src="https://drive.google.com/uc?id=1CCTnxFEZwMSKB5D1WFjoJavyOsYXoNoxFQ" width="133.5" height="200" align="right">
 
-
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Postdoctoral Research Associate** <br />
+**Postdoctoral Research Associate** <br />
 Hydrology Technical Group, Energy and Environment Directorate <br />
 Pacific Northwest National Laboratory <br />
 902 Battelle Blvd, Richland, WA 99354        
