@@ -4,7 +4,7 @@
 
 
 ## Focus 
-Yan's research focuses on the following three science questions:
+Yan's research mainly focuses on the following three science questions:
 1. How to improve our understanding, modeling, and forecasting of hydrologic systems?
 2. How to reduce hydrologic data uncertainty and improve hydrologic data accuracy?
 3. How do hydrological processes change in a changing world (i.e., climate, land use land cover)?
