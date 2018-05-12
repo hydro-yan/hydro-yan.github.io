@@ -1,4 +1,4 @@
-<h2>style="text-align: center;">Hongxiang Yan</h2>
+<h2 style="text-align: center;">Hongxiang Yan</h2>
 <img src="https://drive.google.com/uc?id=1CCTnxFEZwMSKB5D1WFjoJavyOsYXoNoxFQ" width="133.5" height="200" align="right">
 **Postdoctoral Research Associate** <br />
 Hydrology Technical Group, Energy and Environment Directorate <br />
