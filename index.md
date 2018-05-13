@@ -4,7 +4,7 @@
 
 
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
-<font size="14">&emsp;&emsp;About</font>
+<font size="10">&emsp;&emsp;About</font>
 
 
 
