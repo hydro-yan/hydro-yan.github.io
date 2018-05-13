@@ -31,13 +31,14 @@
   <li><strong>Yan, H.</strong> and Moradkhani, H. (2014). “Flood frequency analysis: A spatial Bayesian hierarchical model.” <em>Pacific Northwest (PNW) Water Research Symposium</em>, Corvallis, OR, May 12. <strong>(Oral)</strong> </li>
   <li><strong>Yan, H.</strong> and Moradkhani, H. (2013). “Flood frequency analysis: multi-distribution ensemble using spatial Bayesian hierarchical model and Bayesian model averaging.” <em>American Geophysical Union (AGU) Fall Meeting</em>, San Francisco, CA, Dec. 9–13.</li>
   <li><strong>Yan, H.</strong> and Moradkhani, H. (2013). “A regional Bayesian hierarchical model for flood frequency analysis in Oregon.” <em>American Geophysical Union (AGU) Chapman Conference on Seasonal to Interannual Hydroclimate Forecasts and Water Management</em>, Portland, OR, Jul. 28–31.</li>
-  
-
-
-
-
-
-
-
-
 </ol>
+<br /> <br />
+
+## WORKSHOP PRESENTATIONS
+<ol reversed>
+  <li>Moradkhani, H., DeChant, C., <strong>Yan, H.</strong>, and Zarekarizi, M. (2016). “Accounting for combined effect of initial condition and model uncertainty in seasonal forecasting through data assimilation.” <em>Hydrologic Ensemble Prediction Experiment (HEPEX) Workshop: Ensemble for Better Hydrological Forecasts</em>, Québec, Canada, Jun. 6–8. <strong>(Oral)</strong></li>
+</ol>
+
+
+
+
