@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 title: Yan | Surface Water Hydrology 
 description: solving water problems in a changing world
+
+plugins:
+  - jekyll-seo-tag
