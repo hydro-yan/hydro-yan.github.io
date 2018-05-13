@@ -1,10 +1,10 @@
-<img src="https://drive.google.com/uc?id=1bnsUXUlXWjwShk_OMX5Kq-on0rF6wS2z" width="1196" height="336" align="center"> <br /> <br /> <br /> 
+<!-- <img src="https://drive.google.com/uc?id=1bnsUXUlXWjwShk_OMX5Kq-on0rF6wS2z" width="1196" height="336" align="center"> <br /> <br /> <br />  -->
 
 
 
 ## About Yan
 
-<p style="font-size:20px">Yan is a hydrologist with 8+ years professional experience specializing in hydrologic modeling and forecasting, land data assimilation, extreme value analysis, uncertainty quantification, and climate change impact.</p> <br /> <br />
+<p style="font-size:20px">Yan is a hydrologist with 8+ years professional experience specializing in hydrologic modeling and forecasting, land data assimilation, extreme value analysis, uncertainty quantification, and climate change impact.</p> <br /> 
 
 
 
