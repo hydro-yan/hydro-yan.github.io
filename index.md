@@ -1,7 +1,7 @@
 <div class="img-with-text">
   <img src="https://drive.google.com/uc?id=1JuAPbFZ9goVcUz6A9iAwgYb8s5irnFp3" width="295" height="295" align="left"> 
   <img src="https://drive.google.com/uc?id=1CRPQJduGsi4rcTNGJRi7qBEQP0JmaPqH" width="295" height="295" align="right"> 
-  <br />  <br />  <br />  <br />  <br />
+  <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
   <font size="4">About</font>
 </div>
 
