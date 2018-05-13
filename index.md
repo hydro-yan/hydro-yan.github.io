@@ -1,7 +1,7 @@
 ## About Yan
 <img src="https://drive.google.com/uc?id=1CCTnxFEZwMSKB5D1WFjoJavyOsYXoNoxFQ" width="133.5" height="200" align="right">
 
-<p style="font-size:20px">Yan is a hydrologist with 8+ years professional experience specializing in hydrologic modeling and forecasting, land data assimilation, extreme value analysis, uncertainty quantification, and climate change impact.</p> <br /> 
+<p style="font-size:20px">Yan is a hydrologist with 8+ years professional experience specializing in hydrologic modeling and forecasting, land data assimilation, extreme value analysis, uncertainty quantification, and climate change impact.</p> 
 
 <p style="font-size:20px">Yan's research mainly focuses on the following three science questions:</p>
 
