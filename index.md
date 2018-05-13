@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?id=16hd4vxJETzOeC60Xv3oyOtnG8AKGQsUi" width="665" height="358"> <br /> <br /> <br />
+<img src="https://drive.google.com/uc?id=16hd4vxJETzOeC60Xv3oyOtnG8AKGQsUi" width="498.75" height="268.5"> <br /> <br /> <br />
 
 
 
