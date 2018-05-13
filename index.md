@@ -5,8 +5,7 @@
 
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
 <font size="6">&emsp;&emsp;&emsp;&emsp;About</font> <br /> 
-<font size="5">&emsp;&emsp;&emsp;&emsp;Learn more about Yan</font> <br /> 
-<a href="https://hydro-yan.github.io/yan" style="font-size: 4px; color: rgb(255,255,255)">Learn more &#8594;</a> 
+<a href="https://hydro-yan.github.io/yan" style="font-size: 4px; color: rgb(255,255,255)">&emsp;&emsp;&emsp;&emsp;Learn more about Yan &#8594;</a> 
 
 
 
