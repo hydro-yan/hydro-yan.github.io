@@ -1,7 +1,5 @@
-<img src="https://drive.google.com/uc?id=1FTmMhbzAf8eAB93dVYHc1B93Nyatu9Ba" width="377.5" height="86.5" align="center"> <br /> 
-
-
 ## About Yan
+<img src="https://drive.google.com/uc?id=1CCTnxFEZwMSKB5D1WFjoJavyOsYXoNoxFQ" width="133.5" height="200" align="right">
 
 <p style="font-size:20px">Yan is a hydrologist with 8+ years professional experience specializing in hydrologic modeling and forecasting, land data assimilation, extreme value analysis, uncertainty quantification, and climate change impact.</p> <br /> 
 
