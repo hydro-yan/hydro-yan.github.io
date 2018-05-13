@@ -3,11 +3,8 @@
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
 <font size="6">&emsp;&nbsp;&nbsp;&nbsp;&emsp;About&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Research</font> 
 
-
-
-&nbsp;&nbsp;&emsp;&emsp;<a href="https://hydro-yan.github.io/yan" style="font-size: 18px;">Learn more about Yan &#8594;</a> 
-
-
+&nbsp;&nbsp;&emsp;&emsp;<a href="https://hydro-yan.github.io/yan" style="font-size: 20px;">Learn more about Yan &#8594;</a>  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://hydro-yan.github.io/research" style="font-size: 20px;">Yan's area of study &#8594;</a>
 
 
 
