@@ -3,7 +3,7 @@
   <li><strong>Yan, H.</strong>, Sun, N., Wigmosta, M., and Hou, Z. (2017). “Are precipitation-based intensity-duration-frequency curves appropriate for cost-effective and resilient infrastructure design in snow-dominated regions? Next-generation curves with inclusion of rain-on-snow events.” <em>American Geophysical Union (AGU) Fall Meeting</em>, New Orleans, LA, Dec. 11–15. <strong>(Oral)</strong></li>
   <li>Moradkhani, H., <strong>Yan, H.</strong>, Zarekarizi, M., and Bracken, C. (2016). “Towards a unified framework in hydroclimate extremes prediction in changing climate.” <em>American Geophysical Union (AGU) Fall Meeting</em>, San Francisco, CA, Dec. 12–16.<strong>(Oral)</strong></li>
 </ol>
-<br /> <br />
+<br />
 
 ## CONFERENCE PRESENTATIONS
 <ol reversed>
@@ -32,7 +32,7 @@
   <li><strong>Yan, H.</strong> and Moradkhani, H. (2013). “Flood frequency analysis: multi-distribution ensemble using spatial Bayesian hierarchical model and Bayesian model averaging.” <em>American Geophysical Union (AGU) Fall Meeting</em>, San Francisco, CA, Dec. 9–13.</li>
   <li><strong>Yan, H.</strong> and Moradkhani, H. (2013). “A regional Bayesian hierarchical model for flood frequency analysis in Oregon.” <em>American Geophysical Union (AGU) Chapman Conference on Seasonal to Interannual Hydroclimate Forecasts and Water Management</em>, Portland, OR, Jul. 28–31.</li>
 </ol>
-<br /> <br />
+<br />
 
 ## WORKSHOP PRESENTATIONS
 <ol reversed>
