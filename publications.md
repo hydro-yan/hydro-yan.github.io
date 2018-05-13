@@ -1,6 +1,6 @@
 ## Highlights and Covers
 
-<img src="https://image.ibb.co/bwqUad/wrr.png" width="173.5" height="227.5" align="left" border="0" style="border-style: none;">
+<img src="https://image.ibb.co/bwqUad/wrr.png" width="225.55" height="295.75" align="left" border="0" style="border-style: none;">
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
 
 <ol reversed>
