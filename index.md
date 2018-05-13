@@ -1,5 +1,16 @@
 
-<img src="https://drive.google.com/uc?id=1JuAPbFZ9goVcUz6A9iAwgYb8s5irnFp3" width="295" height="295" align="left">  <br /> 
+<img src="https://drive.google.com/uc?id=1JuAPbFZ9goVcUz6A9iAwgYb8s5irnFp3" width="295" height="295" align="left"> 
+<img src="https://drive.google.com/uc?id=1CRPQJduGsi4rcTNGJRi7qBEQP0JmaPqH" width="295" height="295" align="right"> 
+
+
+
+
+
+
+
+
+
+
 
 <font size="4">About</font> <br /> 
 <font size="2">Learn more about Yan</font>
