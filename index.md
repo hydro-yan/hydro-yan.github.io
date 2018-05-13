@@ -1,5 +1,5 @@
 
-<img src="https://drive.google.com/uc?id=18-0B2PgvkLfwN0j12sCgQwpix_puvOOI" width="295" height="295" align="left" border="0" style="border-style: none;" border-radius="25px;"> 
+<img src="https://drive.google.com/uc?id=18-0B2PgvkLfwN0j12sCgQwpix_puvOOI" width="295" height="295" align="left" border-radius="25px;"> 
 <img src="https://drive.google.com/uc?id=1YFgcOg6EGSH3q_m4MO3eqgFQgYKo1MCO" width="295" height="295" align="right" border="0" style="border-style: none;"> 
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
 <font size="4">&emsp;&emsp;About</font>
