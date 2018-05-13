@@ -1,6 +1,8 @@
 ## HIGHLIGHTS & COVERS
+<a href="https://doi.org/10.1002/2017WR021290" style="text-decoration:none"><img src="https://image.ibb.co/bwqUad/wrr.png" class="image2"  width="225.55" height="295.75" align="left" border="0" style="border-style: none;" </a> &emsp;&emsp;&emsp;
 
-<img src="https://image.ibb.co/bwqUad/wrr.png" width="225.55" height="295.75" align="left" border="0" style="border-style: none;">
+
+
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />  <br /> <br />
 
 ## JOURNAL ARTICLES 
