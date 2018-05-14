@@ -19,13 +19,13 @@
 
 ## BOOK CHAPTERS
 <ol reversed>
-  <li>Ahmadalipour, A., Moradkhani, H., <strong>Yan, H.</strong>, and Zarekarizi, M. (2017). “Remote sensing of drought: vegetation, soil moisture, and data assimilation.” In <em>Remote Sensing of Hydrological Extremes</em>, edited by Lakshmi, V., pp. 121–149, Springer International Publishing Switzerland.<a href="https://doi.org/10.1007/978-3-319-43744-6_7">https://doi.org/10.1007/978-3-319-43744-6_7</a></li>
+  <li>Ahmadalipour, A., Moradkhani, H., <strong>Yan, H.</strong>, and Zarekarizi, M. (2017). “Remote sensing of drought: vegetation, soil moisture, and data assimilation.” In <em>Remote Sensing of Hydrological Extremes</em>, edited by Lakshmi, V., pp. 121–149, Springer International Publishing Switzerland. <a href="https://doi.org/10.1007/978-3-319-43744-6_7">https://doi.org/10.1007/978-3-319-43744-6_7</a></li>
 </ol>
 <br /> 
 
 ## CONFERENCE PROCEEDINGS
 <ol reversed>
-  <li><strong>Yan, H.</strong> and Moradkhani, H. (2014). “Bayesian model averaging for flood frequency analysis.” In <em>Proceedings of World Environmental and Water Resources Congress 2014</em>, pp. 1886–1895, Portland, OR.<a href="https://doi.org/10.1061/9780784413548.189">https://doi.org/10.1061/9780784413548.189</a></li>
+  <li><strong>Yan, H.</strong> and Moradkhani, H. (2014). “Bayesian model averaging for flood frequency analysis.” In <em>Proceedings of World Environmental and Water Resources Congress 2014</em>, pp. 1886–1895, Portland, OR. <a href="https://doi.org/10.1061/9780784413548.189">https://doi.org/10.1061/9780784413548.189</a></li>
 </ol>
 
 
