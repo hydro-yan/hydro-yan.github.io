@@ -15,3 +15,23 @@
   <li><strong>Yan, H.</strong> and Moradkhani, H. (2015). “A regional Bayesian hierarchical model for flood frequency analysis.” <em>Stochastic Environmental Research and Risk Assessment</em>, 29(3), 1019–1036. <a href="https://doi.org/10.1007/s00477-014-0975-3">https://doi.org/10.1007/s00477-014-0975-3</a></li>
   <li><strong>Yan, H.</strong> and Edwards, F. G. (2013). “Effects of land use change on hydrologic response at a watershed scale, Arkansas.” <em>Journal of Hydrologic Engineering</em>, 18(12), 1779–1785. <a href="https://doi.org/10.1061/(ASCE)HE.1943-5584.0000743">https://doi.org/10.1061/(ASCE)HE.1943-5584.0000743</a></li>
 </ol>
+<br /> <br /> 
+
+## BOOK CHAPTERS
+<ol reversed>
+  <li>Ahmadalipour, A., Moradkhani, H., <strong>Yan, H.</strong>, and Zarekarizi, M. (2017). “Remote sensing of drought: vegetation, soil moisture, and data assimilation.” In <em>Remote Sensing of Hydrological Extremes</em>, edited by Lakshmi, V., pp. 121–149, Springer International Publishing Switzerland.<a href="https://doi.org/10.1007/978-3-319-43744-6_7">https://doi.org/10.1007/978-3-319-43744-6_7</a></li>
+</ol>
+<br /> <br /> 
+
+## CONFERENCE PROCEEDINGS
+<ol reversed>
+  <li><strong>Yan, H.</strong> and Moradkhani, H. (2014). “Bayesian model averaging for flood frequency analysis.” In <em>Proceedings of World Environmental and Water Resources Congress 2014</em>, pp. 1886–1895, Portland, OR.<a href="https://doi.org/10.1061/9780784413548.189">https://doi.org/10.1061/9780784413548.189</a></li>
+</ol>
+
+
+
+
+
+
+
+
