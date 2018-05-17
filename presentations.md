@@ -1,7 +1,7 @@
 ## INVITED PRESENTATIONS 
 <ol reversed>
   <li><strong>Yan, H.</strong>, Sun, N., Wigmosta, M., and Hou, Z. (2017). “Are precipitation-based intensity-duration-frequency curves appropriate for cost-effective and resilient infrastructure design in snow-dominated regions? Next-generation curves with inclusion of rain-on-snow events.” <em>American Geophysical Union (AGU) Fall Meeting</em>, New Orleans, LA, Dec. 11–15. <strong>(Oral)</strong></li>
-  <li>Moradkhani, H., <strong>Yan, H.</strong>, Zarekarizi, M., and Bracken, C. (2016). “Towards a unified framework in hydroclimate extremes prediction in changing climate.” <em>American Geophysical Union (AGU) Fall Meeting</em>, San Francisco, CA, Dec. 12–16.<strong>(Oral)</strong> <a href="http://adsabs.harvard.edu/abs/2016AGUFMNH53E..03M">See the abstract &#8594;</a></li> 
+  <li>Moradkhani, H., <strong>Yan, H.</strong>, Zarekarizi, M., and Bracken, C. (2016). “Towards a unified framework in hydroclimate extremes prediction in changing climate.” <em>American Geophysical Union (AGU) Fall Meeting</em>, San Francisco, CA, Dec. 12–16. <strong>(Oral)</strong>. <a href="http://adsabs.harvard.edu/abs/2016AGUFMNH53E..03M">See the abstract &#8594;</a></li> 
 
 </ol>
 <br />
