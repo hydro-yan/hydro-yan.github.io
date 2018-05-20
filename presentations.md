@@ -1,6 +1,6 @@
 ## INVITED PRESENTATIONS 
 
-<a href="https://github.com/hydro-yan/hydro-yan.github.io/blob/master/presentations/2017_AGU_Yan.pdf" style="text-decoration:none"><img src="https://image.ibb.co/ePLbi8/AGU.png" class="image2"  width="119.8" height="89.3" align="left" border="0" style="border-style: none;"> </a>
+<a href="https://github.com/hydro-yan/hydro-yan.github.io/blob/master/presentations/2017_AGU_Yan.pdf" style="text-decoration:none"><img src="https://image.ibb.co/ePLbi8/AGU.png" class="image2"  width="479.2" height="357.2" align="left" border="0" style="border-style: none;"> </a>
 
 <ol reversed>
   <li><strong>Yan, H.</strong>, Sun, N., Wigmosta, M., and Hou, Z. (2017). “Are precipitation-based intensity-duration-frequency curves appropriate for cost-effective and resilient infrastructure design in snow-dominated regions? Next-generation curves with inclusion of rain-on-snow events.” <em>American Geophysical Union (AGU) Fall Meeting</em>, New Orleans, LA, Dec. 11–15. <strong>(Oral)</strong></li>
