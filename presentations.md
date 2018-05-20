@@ -1,7 +1,3 @@
-## NASA HYPERWALL PRESENTATION
-My colleague Mahkameh delivered our drought system on NASA Hyperwall in AGU Fall Meeting 2017
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=XAYnXSFgBWA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ## INVITED PRESENTATIONS 
 <ol reversed>
   <li><strong>Yan, H.</strong>, Sun, N., Wigmosta, M., and Hou, Z. (2017). “Are precipitation-based intensity-duration-frequency curves appropriate for cost-effective and resilient infrastructure design in snow-dominated regions? Next-generation curves with inclusion of rain-on-snow events.” <em>American Geophysical Union (AGU) Fall Meeting</em>, New Orleans, LA, Dec. 11–15. <strong>(Oral)</strong>. <a href="https://github.com/hydro-yan/hydro-yan.github.io/blob/master/presentations/2017_AGU_Yan.pdf">See the presentation &#8594;</a></li> 
