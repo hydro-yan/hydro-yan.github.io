@@ -1,1 +1,1 @@
-<a style="white-space: nowrap" href="https://www.serdp-estcp.org/Program-Areas/Resource-Conservation-and-Resiliency/Natural-Resources/Cold-Regions-Ecology-and-Management/RC-2546" style="font-size: 20px;">Next-Generation Intensity-Duration-Frequency Curves </a>
+<a style="white-space: nowrap" href="https://www.serdp-estcp.org/Program-Areas/Resource-Conservation-and-Resiliency/Natural-Resources/Cold-Regions-Ecology-and-Management/RC-2546" style="font-size: 25px;"><strong>Next-Generation Intensity-Duration-Frequency Curves</strong></a>
