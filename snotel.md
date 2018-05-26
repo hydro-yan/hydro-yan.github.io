@@ -1,6 +1,6 @@
 ## 3-Stage Filtered SNOTEL DATA 
-<img src="https://image.ibb.co/jAAiRT/Picture1.png" class="image2" width="245" height="245" align="left" border="0" style="border-style: none;">
-<img src="https://image.ibb.co/m68WD8/Screen_Size_Figure.png" class="image2" width="245" height="245" align="right" border="0" style="border-style: none;">
+<img src="https://image.ibb.co/jAAiRT/Picture1.png" class="image2" width="600" height="600" align="left" border="0" style="border-style: none;">
+<img src="https://image.ibb.co/m68WD8/Screen_Size_Figure.png" class="image2" width="600" height="685" align="left" border="0" style="border-style: none;">
 
 
 
