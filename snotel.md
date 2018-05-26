@@ -24,4 +24,5 @@ In each folder, the file of each station is named as “f_<lat>_<lon>.txt”. In
 Note: The raw daily SNOTEL observations were downloaded from U.S. Department of Agricultural Natural Resources Conservation Service (NRCS) at: [https://www.wcc.nrcs.usda.gov/snow/](https://www.wcc.nrcs.usda.gov/snow/)
 
 If you decide to use the data, please cite the source as noted below:
-<strong>Yan, H.</strong>, Sun, N., Wigmosta, M., Skaggs, R., Hou, Z., and Leung, R. (2018). “Next-generation intensity-duration-frequency curves for hydrologic design in snow-dominated environments.” <em>Water Resources Research</em>, 54(2), 1093–1108. <a href="https://doi.org/10.1002/2017WR021290">https://doi.org/10.1002/2017WR021290</a>
+
+<strong>Yan, H., Sun, N., Wigmosta, M., Skaggs, R., Hou, Z., and Leung, R. (2018). “Next-generation intensity-duration-frequency curves for hydrologic design in snow-dominated environments.” <em>Water Resources Research</em>, 54(2), 1093–1108. <a href="https://doi.org/10.1002/2017WR021290">https://doi.org/10.1002/2017WR021290</a></strong>
