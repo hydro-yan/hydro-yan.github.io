@@ -7,7 +7,7 @@
 
 Two sets of QA/QC daily SNOTEL data (compressed zip file) up through 09/30/2017 for 825 active stations located in western United States and Alaska are available to download.
 
-- [two_stage_filtered_data](https://dhsvm.pnnl.gov/downloads/data/two_stage_filtered_data.zip): Removed erroneous values and outliers in precipitation, temperature, and SWE using a two-stage filter as described in Yan et al. (2018). <a href="https://hydro-yan.github.io/snotelflowchart.md">See the two-stage filter flowchart &#8594;</a> 
+- [two_stage_filtered_data](https://dhsvm.pnnl.gov/downloads/data/two_stage_filtered_data.zip): Removed erroneous values and outliers in precipitation, temperature, and SWE using a two-stage filter as described in [Yan et al. (2018)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017WR021290).
 - [three_stage_filtered_data](https://dhsvm.pnnl.gov/downloads/data/three_stage_filtered_data.zip): Removed erroneous values and outliers in precipitation, temperature, and SWE, as well as “inconsistent water year” data using a three-stage filter (see [Yan et al., 2018](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017WR021290) for details).
 
 In each folder, the file of each station is named as “f_lat_lon.txt”. In each text file, there are nine columns:
