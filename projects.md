@@ -2,7 +2,7 @@
 <br />  <br /> 
 <img src="https://image.ibb.co/jMv9wT/NG_IDF.png" class="image2" width="245.12" height="306.4" align="left" border="0" style="border-style: none;"> Traditional IDF design paradigm makes several significant assumptions. Given the potential impacts of climate change, these limiting assumptions can substantially increase infrastructure development risks. This research will critically evaluate these assumptions individually and in combination to (1) improve our understanding of the non-uniform spatial and temporal distribution of potential climate-induced changes in the intensity and variability of heavy precipitation and runoff events; (2) develop next-generation IDF curves that account for snowmelt and climate non-stationarity; (3) evaluate the ability of current event-based rainfall-runoff models to exploit next-generation IDF curves; and (4) evaluate the ability of next-generation IDF curves coupled with event-based models to accurately inform hydrologic design, including the frequency of specific runoff events.
 
-<img src="https://image.ibb.co/mdUfMT/Picture1.png" class="image2" width="500" height="235" align="left" border="0" style="border-style: none;">
+<img src="https://image.ibb.co/mdUfMT/Picture1.png" class="image2" width="600" height="282" align="left" border="0" style="border-style: none;">
  <br /> 
 This project is funded by <strong>Strategic Environmental Research and Development Program (SERDP)</strong>. <a href="https://www.serdp-estcp.org/Program-Areas/Resource-Conservation-and-Resiliency/Natural-Resources/Cold-Regions-Ecology-and-Management/RC-2546">See the project &#8594;</a>
 
