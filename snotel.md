@@ -1,10 +1,11 @@
+## 3-Stage Filtered SNOTEL DATA 
 <img src="https://image.ibb.co/jAAiRT/Picture1.png" class="image2" width="245" height="245" align="left" border="0" style="border-style: none;">
 <img src="https://image.ibb.co/m68WD8/Screen_Size_Figure.png" class="image2" width="245" height="245" align="right" border="0" style="border-style: none;">
 
 
 
 
-## 3-Stage Filtered SNOTEL DATA 
+
 
 Two sets of QA/QC daily SNOTEL data (compressed zip file) up through 09/30/2017 for 825 active stations located in western United States and Alaska are available to download.
 
