@@ -1,5 +1,5 @@
 ##### 27 June 2018
-A new commentary by Dr.Alan Hamlet from University of Notre Dame on Yan's next-generation IDF (NG-IDF) paper is published in <em>AGU–Water Resources Research</em>. <br /><br />
+A new commentary by Dr. Alan Hamlet from University of Notre Dame on Yan's next-generation IDF (NG-IDF) paper is published in <em>AGU–Water Resources Research</em>. <br /><br />
 <em>"In a recent WRR paper, Yan et al. (2018) have derived a simple, elegant, and useful way of reanalyzing quality‐controlled SNOTEL data sets to produce quantitative estimates of water reaching the land surface during rain, snowmelt, and rain‐on‐snow events, and use these data to generate 'next generation' Intensity Duration Frequency (IDF) curves for these quantities at SNOTEL measurement locations......"</em>&nbsp;<a href="https://doi.org/10.1029/2018WR023123">See the full commentary &#8594;</a>
 
 ##### 12 April 2018
