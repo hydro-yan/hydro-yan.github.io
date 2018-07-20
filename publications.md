@@ -5,6 +5,7 @@
 
 ## JOURNAL ARTICLES 
 <ol reversed>
+ <li><strong>Yan, H.</strong>, Zarekarizi, M., Moradkhani, H. (2018). “Toward improving drought monitoring using the remotely sensed soil moisture assimilation: A parallel particle filtering framework.” <em>Remote Sensing of Environment</em>, 216, 456-471. <a href="https://doi.org/10.1016/j.rse.2018.07.017">https://doi.org/10.1016/j.rse.2018.07.017</a></li>  
   <li><strong>Yan, H.</strong>, Sun, N., Wigmosta, M., Skaggs, R., Hou, Z., and Leung, R. (2018). “Next-generation intensity-duration-frequency curves for hydrologic design in snow-dominated environments.” <em>Water Resources Research</em>, 54(2), 1093–1108. <strong>(Paper featured on journal cover)</strong>. <a href="https://doi.org/10.1002/2017WR021290">https://doi.org/10.1002/2017WR021290</a></li>
   <li>Abbaszadeh, P., Moradkhani, H., and <strong>Yan, H.</strong> (2018). “Enhancing hydrologic data assimilation by evolutionary particle filter and Markov chain Monte Carlo.” <em>Advances in Water Resources</em>, 111, 192–204. <a href="https://doi.org/10.1016/j.advwatres.2017.11.011">https://doi.org/10.1016/j.advwatres.2017.11.011</a></li>
   <li><strong>Yan, H.</strong>, Moradkhani, H., and Zarekarizi, M. (2017). “A probabilistic drought forecasting framework: A combined dynamical and statistical approach.” <em>Journal of Hydrology</em>, 548, 291–304. <a href="https://doi.org/10.1016/j.jhydrol.2017.03.004">https://doi.org/10.1016/j.jhydrol.2017.03.004</a></li>
