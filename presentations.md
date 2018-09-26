@@ -20,6 +20,7 @@
   <li>Moradkhani, H., Abbaszadeh, P., and <strong>Yan, H.</strong> (2016). “Enhancing data assimilation by evolutionary particle filter and Markov chain Monte Carlo.” <em>American Geophysical Union (AGU) Fall Meeting</em>, San Francisco, CA, Dec. 12–16. </li>
   <li>Abbaszadeh, P., Moradkhani, H., and <strong>Yan, H.</strong> (2016). “Downscaling coarse scale microwave soil moisture product using machine learning.” <em>American Geophysical Union (AGU) Fall Meeting</em>, San Francisco, CA, Dec. 12–16. </li>
   <li>Almamalachy, Y., Moradkhani, H., <strong>Yan, H.</strong>, Ahmadalipour, A., and Irannezhad, M. (2016). “Assessing aridity, hydrological drought, and recovery using GRACE and GLDAS: a case study in Iraq.” <em>American Geophysical Union (AGU) Fall Meeting</em>, San Francisco, CA, Dec. 12–16. </li>
+  <li>Moradkhani, H., DeChant, C., <strong>Yan, H.</strong>, and Zarekarizi, M. (2016). “Accounting for combined effect of initial condition and model uncertainty in seasonal forecasting through data assimilation.” <em>Hydrologic Ensemble Prediction Experiment (HEPEX) Workshop: Ensemble for Better Hydrological Forecasts</em>, Québec, Canada, Jun. 6–8. <strong>(Oral)</strong>. <a href="https://github.com/hydro-yan/hydro-yan.github.io/blob/master/presentations/2016_HEPEX_Moradkhani.pdf">See the presentation &#8594;</a></li>
   <li><strong>Yan, H.</strong> and Moradkhani, H. (2016). “A sequential Bayesian hierarchical approach for extreme flood prediction.” <em>Environmental & Water Resources Institute (EWRI) World Environmental & Water Resources Congress</em>, West Palm Beach, FL, May 22–26. <strong>(Oral)</strong>. </li>
   <li>Zarekarizi, M., <strong>Yan, H.</strong>, and Moradkhani, H. (2016). “A non-stationary, climate-informed Bayesian modelling framework for flood hazard analysis.” <em>Pacific Northwest (PNW) Water Research Symposium</em>, Corvallis, OR, Apr. 18–19. <strong>(Oral)</strong>. </li>
   <li><strong>Yan, H.</strong> and Moradkhani, H. (2016). “Improved assimilation of satellite soil moisture through geostatistical method.” <em>Pacific Northwest (PNW) Water Research Symposium</em>, Corvallis, OR, Apr. 18–19. <strong>(Oral)</strong>.</li>
@@ -36,10 +37,7 @@
 </ol>
 <br />
 
-## WORKSHOP PRESENTATIONS
-<ol reversed>
-  <li>Moradkhani, H., DeChant, C., <strong>Yan, H.</strong>, and Zarekarizi, M. (2016). “Accounting for combined effect of initial condition and model uncertainty in seasonal forecasting through data assimilation.” <em>Hydrologic Ensemble Prediction Experiment (HEPEX) Workshop: Ensemble for Better Hydrological Forecasts</em>, Québec, Canada, Jun. 6–8. <strong>(Oral)</strong>. <a href="https://github.com/hydro-yan/hydro-yan.github.io/blob/master/presentations/2016_HEPEX_Moradkhani.pdf">See the presentation &#8594;</a></li>
-</ol>
+
 
 
 
