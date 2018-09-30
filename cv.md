@@ -15,11 +15,11 @@ Pacific Northwest National Laboratory <br />
 
 2012–2016&nbsp;&nbsp;&nbsp;Portland State University, Portland, OR, USA<br />
 **Ph.D.** in Civil and Environmental Engineering<br />
-Dissertation: From drought monitoring to forecasting: A combined dynamical-statistical modeling framework<br /><br />
+Dissertation: From drought monitoring to forecasting: A combined dynamical-statistical modeling framework<br />
 
 2010–2012&nbsp;&nbsp;&nbsp;University of Arkansas, Fayetteville, AR, USA<br />
 **M.S.** in Civil Engineering<br />
-Thesis: Magnitude and frequency of floods for rural, unregulated streams of Tennessee by L-moments method<br /><br />
+Thesis: Magnitude and frequency of floods for rural, unregulated streams of Tennessee by L-moments method<br />
 
 2006–2010&nbsp;&nbsp;&nbsp;North China Electric Power University, Beijing, China<br />
 **B.E.** in Hydraulic Engineering<br /> <br />
