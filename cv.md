@@ -51,7 +51,7 @@ Graduate Teaching Assistant<br />
 <br /><br />
 
 #### SELECTED HONORS AND AWARDS
-2018&nbsp;&nbsp;&nbsp;AGU-Water Resources Research Journal Cover Image (Volume 54, Issue 2) <br />
+2018&nbsp;&nbsp;&nbsp;AGU-<em>Water Resources Research</em> Journal Cover Image (Volume 54, Issue 2) <br />
 2017&nbsp;&nbsp;&nbsp;Grand Prize Award, NASA-AGU Data Visualization and Storytelling Competition <br />
 2016&nbsp;&nbsp;&nbsp;Outstanding Ph.D. Student Award, Department of Civil and Environmental Engineering, Portland State University <br />
 2016&nbsp;&nbsp;&nbsp;Institute for Sustainable Solutions Travel Award, Portland State University <br />
