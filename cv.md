@@ -38,6 +38,17 @@ Graduate Research Assistant<br />
 Department of Civil Engineering<br />
 Graduate Research Assistant<br /><br />
 
+#### TEACHING EXPERIENCE AND COURSES
+2012–2016&nbsp;&nbsp;&nbsp;Portland State University, Portland, OR, USA<br />
+Department of Civil and Environmental Engineering<br />
+Graduate Teaching Assistant<br />
+
+- CEE 668 Stochastic Methods in Analysis of Hydrosystems
+- CEE 610 Watershed Hydrology
+- CEE 510 Urban Watershed Management
+- CEE 410 Remote Sensing and Hydroclimatology
+- CEE 115 Civil Engineering Drawing and Spatial Analysis
+
 #### SELECTED HONORS AND AWARDS
 2018&nbsp;&nbsp;&nbsp;AGU-Water Resources Research Journal Cover Image (Volume 54, Issue 2) <br />
 2017&nbsp;&nbsp;&nbsp;Grand Prize Award, NASA-AGU Data Visualization and Storytelling Competition <br />
