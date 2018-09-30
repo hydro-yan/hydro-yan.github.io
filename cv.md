@@ -48,7 +48,7 @@ Graduate Teaching Assistant<br />
 - CEE 510 Urban Watershed Management
 - CEE 410 Remote Sensing and Hydroclimatology
 - CEE 115 Civil Engineering Drawing and Spatial Analysis
-<br />
+<br /><br />
 
 #### SELECTED HONORS AND AWARDS
 2018&nbsp;&nbsp;&nbsp;AGU-Water Resources Research Journal Cover Image (Volume 54, Issue 2) <br />
