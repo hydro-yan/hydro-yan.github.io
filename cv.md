@@ -26,9 +26,17 @@ Thesis: Magnitude and frequency of floods for rural, unregulated streams of Tenn
 
 #### ACADEMIC EXPERIENCE 
 
-2017–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Postdoctoral Research Associate**, Pacific Northwest National Laboratory, Richland, WA <br />
-2012–2016&nbsp;&nbsp;&nbsp;**Graduate Research & Teaching Assistant**, Portland State University, Portland, OR <br />
-2010–2012&nbsp;&nbsp;&nbsp;**Graduate Student**, University of Arkansas, Fayetteville, AR <br /> <br />
+2017–2019&nbsp;&nbsp;&nbsp;Pacific Northwest National Laboratory, Richland, WA, USA<br />
+Hydrology Technical Group, Energy and Environment Directorate<br />
+Postdoctoral Research Associate<br /><br />
+
+2012–2016&nbsp;&nbsp;&nbsp;Portland State University, Portland, OR, USA<br />
+Remote Sensing and Water Resources Lab, Department of Civil and Environmental Engineering<br />
+Graduate Research Assistant<br /><br />
+
+2010–2012&nbsp;&nbsp;&nbsp;University of Arkansas, Fayetteville, AR, USA<br />
+Department of Civil Engineering<br />
+Graduate Research Assistant<br /><br />
 
 #### SELECTED HONORS AND AWARDS
 2018&nbsp;&nbsp;&nbsp;AGU-Water Resources Research Journal Cover Image (Volume 54, Issue 2) <br />
