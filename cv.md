@@ -79,7 +79,7 @@ Graduate Student Mentees at PSU
 2015&nbsp;&nbsp;&nbsp;Student Travel Grant, CUAHSI <br />
 2014&nbsp;&nbsp;&nbsp;Institute for Sustainable Solutions Travel Award, Portland State University <br /> <br />
 
-#### PROFESSIONAL SERVICES 
+#### PROFESSIONAL CERTIFICATIONS AND SERVICES 
 Professional Licensure: Engineering in Training (**EIT**) in State of Washington (License 33949) 
 
 Professional Memberships
