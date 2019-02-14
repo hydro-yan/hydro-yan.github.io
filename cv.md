@@ -38,16 +38,33 @@ Graduate Research Assistant<br />
 Department of Civil Engineering<br />
 Graduate Research Assistant<br /><br />
 
-#### TEACHING EXPERIENCE AND COURSES
+#### RESEARCH AREAS
+- Hydrological modeling and land data assimilation 
+- Probabilistic hydrological monitoring and forecasting
+- Extreme value analysis and Bayesian statistics
+- Climate change impact and snow hydrology
+- Water infrastructure vulnerability and risk assessment 
+- Hydrologic prediction and uncertainty quantification
+- Remote sensing in hydrology and land surface 
+<br /><br />
+
+#### TEACHING AND ADVISING EXPERIENCE
 2012–2016&nbsp;&nbsp;&nbsp;Portland State University, Portland, OR, USA<br />
 Department of Civil and Environmental Engineering<br />
 Graduate Teaching Assistant<br />
 
-- CEE 668 Stochastic Methods in Analysis of Hydrosystems
-- CEE 610 Watershed Hydrology
-- CEE 510 Urban Watershed Management
-- CEE 410 Remote Sensing and Hydroclimatology
-- CEE 115 Civil Engineering Drawing and Spatial Analysis
+Teaching Assistant Courses at PSU
+- CEE 410 Remote Sensing and Hydroclimatology: Fall 2016
+- CEE 610 Watershed Hydrology: Winter 2015
+- CEE 668 Stochastic Methods in Analysis of Hydrosystems: Fall 2014
+- CEE 610 Watershed Hydrology: Fall 2013
+- CEE 115 Civil Engineering Drawing and Spatial Analysis: Spring 2013
+- CEE 510 Urban Watershed Management: Fall 2012
+
+Graduate Student Mentees
+- 2015–2018&nbsp;&nbsp;&nbsp;Mahkemeh Zarekarizi, Ph.D. student
+- 2015–2016&nbsp;&nbsp;&nbsp;Peyman Abbaszadeh, Ph.D. student
+- 2015–2016&nbsp;&nbsp;&nbsp;Benjamin Beal, M.S. student
 <br /><br />
 
 #### SELECTED HONORS AND AWARDS
