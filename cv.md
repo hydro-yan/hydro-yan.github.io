@@ -51,7 +51,7 @@ Graduate Research Assistant<br /><br />
 #### TEACHING AND ADVISING EXPERIENCE
 2012–2016&nbsp;&nbsp;&nbsp;Portland State University, Portland, OR, USA<br />
 Department of Civil and Environmental Engineering<br />
-Graduate Teaching Assistant<br /><br />
+Graduate Teaching Assistant
 
 Teaching Assistant Courses at PSU
 - CEE 410 Remote Sensing and Hydroclimatology: Fall 2016
@@ -60,7 +60,7 @@ Teaching Assistant Courses at PSU
 - CEE 610 Watershed Hydrology: Fall 2013
 - CEE 115 Civil Engineering Drawing and Spatial Analysis: Spring 2013
 - CEE 510 Urban Watershed Management: Fall 2012
-<br /><br />
+<br />
 
 Graduate Student Mentees at PSU
 - 2015–2018&nbsp;&nbsp;&nbsp;Mahkemeh Zarekarizi, Ph.D. student
