@@ -54,14 +54,14 @@ Department of Civil and Environmental Engineering<br />
 Graduate Teaching Assistant<br />
 
 Teaching Assistant Courses at PSU
-- CEE 410 Remote Sensing and Hydroclimatology: Fall 2016
-- CEE 610 Watershed Hydrology: Winter 2015
-- CEE 668 Stochastic Methods in Analysis of Hydrosystems: Fall 2014
-- CEE 610 Watershed Hydrology: Fall 2013
-- CEE 115 Civil Engineering Drawing and Spatial Analysis: Spring 2013
-- CEE 510 Urban Watershed Management: Fall 2012
+<ul><li>CEE 410 Remote Sensing and Hydroclimatology: Fall 2016</li>
+<li>CEE 610 Watershed Hydrology: Winter 2015</li>
+<li>CEE 668 Stochastic Methods in Analysis of Hydrosystems: Fall 2014</li>
+<li>CEE 610 Watershed Hydrology: Fall 2013</li>
+<li>CEE 115 Civil Engineering Drawing and Spatial Analysis: Spring 2013</li>
+<li>CEE 510 Urban Watershed Management: Fall 2012</li></ul>
 
-Graduate Student Mentees
+Graduate Student Mentees at PSU
 - 2015–2018&nbsp;&nbsp;&nbsp;Mahkemeh Zarekarizi, Ph.D. student
 - 2015–2016&nbsp;&nbsp;&nbsp;Peyman Abbaszadeh, Ph.D. student
 - 2015–2016&nbsp;&nbsp;&nbsp;Benjamin Beal, M.S. student
