@@ -1,5 +1,5 @@
 ## JOURNAL COVER ARTICLES
-<a href="https://doi.org/10.1029/2018GL080260" style="text-decoration:none"><img src="https://i.ibb.co/n8d2Nhm/GRL.png" class="image2"  width="225.55" height="295.75" align="left" border="0" style="border-style: none;"> </a> &emsp;
+<a href="https://doi.org/10.1029/2018GL080260" style="text-decoration:none"><img src="https://i.ibb.co/n8d2Nhm/GRL.png" class="image2"  width="225.55" height="350.83" align="left" border="0" style="border-style: none;"> </a> &emsp;
 <a href="https://doi.org/10.1002/2017WR021290" style="text-decoration:none"><img src="https://image.ibb.co/bwqUad/wrr.png" class="image2"  width="225.55" height="295.75" border="0" style="border-style: none;"> </a> &emsp;<br /> <br /> <br /> 
 
 ## JOURNAL ARTICLES 
