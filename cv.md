@@ -69,6 +69,7 @@ Graduate Student Mentees at PSU
 <br /><br />
 
 #### SELECTED HONORS AND AWARDS
+2019&nbsp;&nbsp;&nbsp;AGU-<em>Geophysical Research Letters</em> Journal Cover Image (Volume 46, Issue 2) <br />
 2018&nbsp;&nbsp;&nbsp;Excellence Paper Award, International Association of Chinese Youth in Water Sciences (CYWater) <br />
 2018&nbsp;&nbsp;&nbsp;AGU-<em>Water Resources Research</em> Journal Cover Image (Volume 54, Issue 2) <br />
 2017&nbsp;&nbsp;&nbsp;Grand Prize Award, NASA-AGU Data Visualization and Storytelling Competition <br />
