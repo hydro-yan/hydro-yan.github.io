@@ -60,7 +60,6 @@ Teaching Assistant Courses at PSU
 - CEE 610 Watershed Hydrology: Fall 2013
 - CEE 115 Civil Engineering Drawing and Spatial Analysis: Spring 2013
 - CEE 510 Urban Watershed Management: Fall 2012
-<br />
 
 Graduate Student Mentees at PSU
 - 2015–2018&nbsp;&nbsp;&nbsp;Mahkemeh Zarekarizi, Ph.D. student
@@ -83,11 +82,37 @@ Graduate Student Mentees at PSU
 #### PROFESSIONAL SERVICES 
 Professional Licensure: Engineering in Training (**EIT**) in State of Washington (License 33949) 
 
+Professional Memberships
 - Member of the American Geophysical Union (**AGU**): 2013 to present
 - Member of the American Society of Civil Engineers (**ASCE**): 2012 to present     
 - Member of the International Association of Hydrological Sciences (**IAHS**): 2013 to present
 - Member of the Hydrological Ensemble Prediction Experiment (**HEPEX**): 2014 to present
 
-Reviewer for Scientific Reports (Nature), Water Resources Research (AGU), Journal of Hydrology (Elsevier), WIREs Water (Wiley), Catena (Elsevier), Weather and Climate Extremes (Elsevier), Hydrological Processes (Wiley), Journal of Hydrometeorology (AMS), Sensors (MDPI), Remote Sensing (MDPI), Water (MDPI), Sustainability (MDPI), Hydrology (MDPI), Geosciences (MDPI), Journal of Hydrologic Engineering (ASCE), Journal of Hydroinformatics (IWA), Stochastic Environmental Research and Risk Assessment (Springer), Water Resources Management (Springer), Environmental Earth Sciences (Springer), Canadian Water Resources Journal (CWRA), Hydrological Research Letters (JSHWR), Acta Geophysica (Springer), Advances in Meteorology (Hindawi), Journal of Meteorological Research (CMS)
+Journal Reviewers
+- Acta Geophysica (Springer)
+- Advances in Meteorology (Hindawi)
+- Canadian Water Resources Journal (Taylor & Francis)
+- Catena (Elsevier)
+- Environmental Earth Sciences (Springer)
+- Geosciences (MDPI)
+- Hydrological Processes (Wiley)
+- Hydrological Research Letters (JSHWR)
+- Hydrology (MDPI)
+- Journal of Hydroinformatics (IWA)
+- Journal of Hydrologic Engineering (ASCE)
+- Journal of Hydrology (Elsevier)
+- Journal of Hydrometeorology (AMS)
+- Journal of Meteorological Research (Springer)
+- Meteorological Applications (RMetS)
+- Remote Sensing (MDPI)
+- Sensors (MDPI)
+- Scientific Reports (Nature)
+- Stochastic Environmental Research and Risk Assessment (Springer)
+- Sustainability (MDPI)
+- Water (MDPI)
+- Water Resources Management (Springer)
+- Water Resources Research (AGU)
+- Weather and Climate Extremes (Elsevier)
+- WIREs Water (Wiley)
 
-Ad-hoc proposal reviewer for National Science Foundation (**NSF**)
+
