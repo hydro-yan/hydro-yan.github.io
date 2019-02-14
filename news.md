@@ -1,3 +1,7 @@
+
+##### 14 February 2019
+Yan's non-stationary next-generation IDF (NG-IDF) paper (<a href="https://doi.org/10.1029/2018GL080260">https://doi.org/10.1029/2018GL080260</a>) is featured on <em>AGU–Geophysical Research Letters</em> journal cover (January 28 Issue 2019). <a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/grl.57642">See the cover &#8594;</a>
+
 ##### 14 December 2018
 Yan's next-generation IDF (NG-IDF) paper (<a href="https://doi.org/10.1002/2017WR021290">https://doi.org/10.1002/2017WR021290</a>) won the 2018 CYWater (International Association of Chinese Youth in Water Sciences) Excellence Paper Award. <a href="http://hydro.igsnrr.ac.cn/cywater/data/news/2018BestPaperAward.html">See the award &#8594;</a>
 
