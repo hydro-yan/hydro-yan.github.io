@@ -53,8 +53,7 @@ Graduate Research Assistant<br /><br />
 Department of Civil and Environmental Engineering<br />
 Graduate Teaching Assistant<br />
 
-Teaching Assistant Courses at PSU
-<ul><li>CEE 410 Remote Sensing and Hydroclimatology: Fall 2016</li>
+Teaching Assistant Courses at PSU<ul><li>CEE 410 Remote Sensing and Hydroclimatology: Fall 2016</li>
 <li>CEE 610 Watershed Hydrology: Winter 2015</li>
 <li>CEE 668 Stochastic Methods in Analysis of Hydrosystems: Fall 2014</li>
 <li>CEE 610 Watershed Hydrology: Fall 2013</li>
