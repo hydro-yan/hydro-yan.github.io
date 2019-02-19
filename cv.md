@@ -101,6 +101,7 @@ Journal Reviewers
 - Hydrological Processes (Wiley)
 - Hydrological Research Letters (JSHWR)
 - Hydrology (MDPI)
+- Journal of Geophysical Research: Atmospheres (AGU)
 - Journal of Hydroinformatics (IWA)
 - Journal of Hydrologic Engineering (ASCE)
 - Journal of Hydrology (Elsevier)
