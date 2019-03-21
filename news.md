@@ -1,7 +1,7 @@
 ##### 18 March 2019
 Yan's next-generation IDF (NG-IDF) work was featured in Pacific Northwest National Laboratory (PNNL) Director Dr. Steven Ashby's special to the Tri-City Herald: How to withstand extreme weather? Science is coming up with these solutions. <br />
 
-<em>"Conventional IDF curves account only for actual rainfall — not excess runoff caused by unseasonably warm temperatures or heavy rains that melt snowpack more quickly or earlier than usual. Capturing these rain-on-snow events is especially important in the Pacific Northwest, where excess runoff can overburden roads, bridges and culverts causing dangerous and costly landslides and flooding ...... They (PNNL scientists) combined this data with climate and hydrological models to improve IDF curves and enable engineering studies that could reduce the risk for infrastructure failure by 25 percent or more while also avoiding costly over-design."</em> <a href="https://www.tri-cityherald.com/news/local/pacific-northwest-national-lab/article227815014.html">See the full news in Tri-City Herald &#8594;</a>
+<em>"Conventional IDF curves account only for actual rainfall — not excess runoff caused by unseasonably warm temperatures or heavy rains that melt snowpack more quickly or earlier than usual. Capturing these rain-on-snow events is especially important in the Pacific Northwest, where excess runoff can overburden roads, bridges and culverts causing dangerous and costly landslides and flooding ...... They (PNNL scientists) combined this data with climate and hydrological models to improve IDF curves and enable engineering studies that could reduce the risk for infrastructure failure by 25 percent or more while also avoiding costly over-design."</em> <a href="https://www.tri-cityherald.com/news/local/pacific-northwest-national-lab/article227815014.html">See the full news in the Tri-City Herald &#8594;</a>
 
 ##### 14 February 2019
 Yan's non-stationary next-generation IDF (NG-IDF) paper (<a href="https://doi.org/10.1029/2018GL080260">https://doi.org/10.1029/2018GL080260</a>) is featured on <em>AGU–Geophysical Research Letters</em> journal cover (January 28 Issue 2019). <a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/grl.57642">See the cover &#8594;</a>
@@ -10,7 +10,8 @@ Yan's non-stationary next-generation IDF (NG-IDF) paper (<a href="https://doi.or
 Yan's next-generation IDF (NG-IDF) paper (<a href="https://doi.org/10.1002/2017WR021290">https://doi.org/10.1002/2017WR021290</a>) won the 2018 CYWater (International Association of Chinese Youth in Water Sciences) Excellence Paper Award. <a href="http://hydro.igsnrr.ac.cn/cywater/data/news/2018BestPaperAward.html">See the award &#8594;</a>
 
 ##### 27 June 2018
-A commentary by Dr. Alan Hamlet from University of Notre Dame on Yan's next-generation IDF (NG-IDF) paper is published in <em>AGU–Water Resources Research</em>. <br /><br />
+A commentary by Dr. Alan Hamlet from University of Notre Dame on Yan's next-generation IDF (NG-IDF) paper is published in <em>AGU–Water Resources Research</em>. <br />
+
 <em>"In a recent WRR paper, Yan et al. (2018) have derived a simple, elegant, and useful way of reanalyzing quality‐controlled SNOTEL data sets to produce quantitative estimates of water reaching the land surface during rain, snowmelt, and rain‐on‐snow events, and use these data to generate 'next generation' Intensity Duration Frequency (IDF) curves for these quantities at SNOTEL measurement locations ......"</em>&nbsp;<a href="https://doi.org/10.1029/2018WR023123">See the full commentary &#8594;</a>
 
 ##### 12 April 2018
