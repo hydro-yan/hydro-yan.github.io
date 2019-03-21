@@ -1,5 +1,5 @@
 ##### 18 Mar 2019
-Yan's next-generation IDF (NG-IDF) work was featured in Pacific Northwest National Laboratory (PNNL) Director Dr. Steven Ashby's special to the Tri-City Herald: How to withstand extreme weather? Science is coming up with these solutions. <br />
+Yan's next-generation IDF (NG-IDF) work is featured in Pacific Northwest National Laboratory (PNNL) Director Dr. Steven Ashby's special to the Tri-City Herald: How to withstand extreme weather? Science is coming up with these solutions. <br />
 
 <em>"Conventional IDF curves account only for actual rainfall — not excess runoff caused by unseasonably warm temperatures or heavy rains that melt snowpack more quickly or earlier than usual. Capturing these rain-on-snow events is especially important in the Pacific Northwest, where excess runoff can overburden roads, bridges and culverts causing dangerous and costly landslides and flooding ...... They (PNNL scientists) combined this data with climate and hydrological models to improve IDF curves and enable engineering studies that could reduce the risk for infrastructure failure by 25 percent or more while also avoiding costly over-design."</em> <a href="https://www.tri-cityherald.com/news/local/pacific-northwest-national-lab/article227815014.html">See the full news in the Tri-City Herald &#8594;</a>
 
