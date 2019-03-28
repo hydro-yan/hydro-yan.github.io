@@ -72,6 +72,8 @@ Graduate Student Mentees at PSU
 2018&nbsp;&nbsp;&nbsp;Excellence Paper Award, International Association of Chinese Youth in Water Sciences (CYWater) <br />
 2018&nbsp;&nbsp;&nbsp;AGU-<em>Water Resources Research</em> Journal Cover Image (Volume 54, Issue 2) <br />
 2017&nbsp;&nbsp;&nbsp;Grand Prize Award, NASA-AGU Data Visualization and Storytelling Competition <br />
+2017&nbsp;&nbsp;&nbsp;Outstanding Reviewer Award, Journal of Hydrology <br />
+2017&nbsp;&nbsp;&nbsp;Outstanding Reviewer Award, Catena Journal <br />
 2016&nbsp;&nbsp;&nbsp;Outstanding Ph.D. Student Award, Department of Civil and Environmental Engineering, Portland State University <br />
 2016&nbsp;&nbsp;&nbsp;Institute for Sustainable Solutions Travel Award, Portland State University <br />
 2016&nbsp;&nbsp;&nbsp;Student Educational Travel Award, Portland State University <br />
