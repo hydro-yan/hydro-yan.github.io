@@ -84,11 +84,10 @@ Graduate Student Mentees at PSU
 #### PROFESSIONAL CERTIFICATIONS AND SERVICES 
 Professional Licensure: Engineering in Training (**EIT**) in State of Washington (License 33949) 
 
-Professional Memberships
-- Member of the American Geophysical Union (**AGU**): 2013 to present
-- Member of the American Society of Civil Engineers (**ASCE**): 2012 to present     
-- Member of the International Association of Hydrological Sciences (**IAHS**): 2013 to present
-- Member of the Hydrological Ensemble Prediction Experiment (**HEPEX**): 2014 to present
+Professional Affiliations
+- American Geophysical Union (**AGU**)
+- American Meteorological Society (**AMS**)
+- American Society of Civil Engineers (**ASCE**) 
 
 Proposal Reviewers
 - National Science Foundation (**NSF**)
