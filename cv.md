@@ -95,6 +95,7 @@ Proposal Reviewers
 Journal Reviewers
 - Acta Geophysica (Springer)
 - Advances in Meteorology (Hindawi)
+- Advances in Water Resources (Elsevier)
 - Canadian Water Resources Journal (Taylor & Francis)
 - Catena (Elsevier)
 - Environmental Earth Sciences (Springer)
