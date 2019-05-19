@@ -29,7 +29,7 @@
 
 ## CONFERENCE PROCEEDINGS
 <ol reversed>
- <li><strong>Yan, H.</strong>, Sun, N., Wigmosta, M., Leung, R., Hou, Z., Skaggs, R., and Coleman, A. (2019). “Enhancing hydrologic design by next-generation intensity-duration-frequency curves considering snowmelt and climate nonstationarity.” In <em>Proceedings of Environmental & Water Resources Institute (EWRI) World Environmental and Water Resources Congress 2019: Watershed Management, Irrigation and Drainage, and Water Resources Planning and Management</em>, pp. 278–286, Pittsburgh, PA. <a href="https://doi.org/10.1061/9780784482346.028">https://doi.org/10.1061/9780784482346.028</a></li>
+ <li><strong>Yan, H.</strong>, Sun, N., Wigmosta, M., Leung, R., Hou, Z., Skaggs, R., and Coleman, A. (2019). “Enhancing hydrologic design by next-generation intensity-duration-frequency curves considering snowmelt and climate nonstationarity.” In <em>Proceedings of Environmental & Water Resources Institute (EWRI) World Environmental and Water Resources Congress 2019: Groundwater, Sustainability, Hydro-Climate/Climate Change, and Environmental Engineering</em>, pp. 278–286, Pittsburgh, PA. <a href="https://doi.org/10.1061/9780784482346.028">https://doi.org/10.1061/9780784482346.028</a></li>
   <li><strong>Yan, H.</strong> and Moradkhani, H. (2014). “Bayesian model averaging for flood frequency analysis.” In <em>Proceedings of World Environmental and Water Resources Congress 2014: Water without Borders</em>, pp. 1886–1895, Portland, OR. <a href="https://doi.org/10.1061/9780784413548.189">https://doi.org/10.1061/9780784413548.189</a></li>
 </ol>
 
