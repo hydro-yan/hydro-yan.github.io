@@ -29,7 +29,7 @@ Thesis: Magnitude and frequency of floods for rural, unregulated streams of Tenn
 Hydrology Technical Group, Energy and Environment Directorate<br />
 Scientist<br />
 
-2017–2019&nbsp;&nbsp;&nbsp;Pacific Northwest National Laboratory, Richland, WA, USA<br />
+2017–2019&nbsp;&nbsp;&nbsp;&nbsp;Pacific Northwest National Laboratory, Richland, WA, USA<br />
 Hydrology Technical Group, Energy and Environment Directorate<br />
 Postdoctoral Research Associate<br />
 
@@ -106,6 +106,7 @@ Journal Reviewers
 - Hydrological Processes (Wiley)
 - Hydrological Research Letters (JSHWR)
 - Hydrology (MDPI)
+- Journal of Cleaner Production (Elsevier)
 - Journal of Geophysical Research: Atmospheres (AGU)
 - Journal of Hydroinformatics (IWA)
 - Journal of Hydrologic Engineering (ASCE)
