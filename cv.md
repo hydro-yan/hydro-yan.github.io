@@ -25,7 +25,7 @@ Thesis: Magnitude and frequency of floods for rural, unregulated streams of Tenn
 **B.E.** in Hydraulic Engineering<br /> <br />
 
 #### ACADEMIC EXPERIENCE 
-2019–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pacific Northwest National Laboratory, Richland, WA, USA<br />
+2019–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pacific Northwest National Laboratory, Richland, WA, USA<br />
 Hydrology Technical Group, Energy and Environment Directorate<br />
 Scientist<br />
 
