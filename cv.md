@@ -1,7 +1,7 @@
 ## Hongxiang Yan
 <img src="https://preview.ibb.co/iJDyJy/Yan.jpg" width="133.5" height="200" align="right">
 
-**Postdoctoral Research Associate** <br />
+**Scientist** <br />
 Hydrology Technical Group, Energy and Environment Directorate <br />
 Pacific Northwest National Laboratory <br />
 902 Battelle Blvd, Richland, WA 99354        
